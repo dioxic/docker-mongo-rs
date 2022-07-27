@@ -1,2 +1,11 @@
-# docker-mongo-rs
-Deploy a 1-node MongoDB replica set using docker-compose
+Basic execution
+
+```
+docker-compose up --build
+```
+
+Teardown
+
+```
+docker-compose down
+```
